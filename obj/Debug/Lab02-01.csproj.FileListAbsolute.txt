@@ -1,0 +1,12 @@
+C:\Users\acjot\source\repos\Lab02-01\bin\Debug\Lab02-01.exe.config
+C:\Users\acjot\source\repos\Lab02-01\bin\Debug\Lab02-01.exe
+C:\Users\acjot\source\repos\Lab02-01\bin\Debug\Lab02-01.pdb
+C:\Users\acjot\source\repos\Lab02-01\obj\Debug\Lab02-01.csproj.AssemblyReference.cache
+C:\Users\acjot\source\repos\Lab02-01\obj\Debug\Lab02_01.frmLogin.resources
+C:\Users\acjot\source\repos\Lab02-01\obj\Debug\Lab02_01.Properties.Resources.resources
+C:\Users\acjot\source\repos\Lab02-01\obj\Debug\Lab02-01.csproj.GenerateResource.cache
+C:\Users\acjot\source\repos\Lab02-01\obj\Debug\Lab02-01.csproj.CoreCompileInputs.cache
+C:\Users\acjot\source\repos\Lab02-01\obj\Debug\Lab02-01.exe
+C:\Users\acjot\source\repos\Lab02-01\obj\Debug\Lab02-01.pdb
+C:\Users\acjot\source\repos\Lab02-01\obj\Debug\Lab02_01.PrincipalMDI.resources
+C:\Users\acjot\source\repos\Lab02-01\obj\Debug\Lab02_01.manUsuario.resources
