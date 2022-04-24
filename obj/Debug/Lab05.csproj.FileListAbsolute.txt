@@ -1,0 +1,10 @@
+C:\Users\acjot\source\repos\Lab05\bin\Debug\Lab05.exe.config
+C:\Users\acjot\source\repos\Lab05\bin\Debug\Lab05.exe
+C:\Users\acjot\source\repos\Lab05\bin\Debug\Lab05.pdb
+C:\Users\acjot\source\repos\Lab05\obj\Debug\Lab05.csproj.AssemblyReference.cache
+C:\Users\acjot\source\repos\Lab05\obj\Debug\Lab05.manPerson.resources
+C:\Users\acjot\source\repos\Lab05\obj\Debug\Lab05.Properties.Resources.resources
+C:\Users\acjot\source\repos\Lab05\obj\Debug\Lab05.csproj.GenerateResource.cache
+C:\Users\acjot\source\repos\Lab05\obj\Debug\Lab05.csproj.CoreCompileInputs.cache
+C:\Users\acjot\source\repos\Lab05\obj\Debug\Lab05.exe
+C:\Users\acjot\source\repos\Lab05\obj\Debug\Lab05.pdb
