@@ -1,0 +1,6 @@
+C:\Users\acjot\source\repos\SchoolApp\SchoolEntities\bin\Debug\SchoolEntities.dll
+C:\Users\acjot\source\repos\SchoolApp\SchoolEntities\bin\Debug\SchoolEntities.pdb
+C:\Users\acjot\source\repos\SchoolApp\SchoolEntities\obj\Debug\SchoolEntities.csproj.AssemblyReference.cache
+C:\Users\acjot\source\repos\SchoolApp\SchoolEntities\obj\Debug\SchoolEntities.csproj.CoreCompileInputs.cache
+C:\Users\acjot\source\repos\SchoolApp\SchoolEntities\obj\Debug\SchoolEntities.dll
+C:\Users\acjot\source\repos\SchoolApp\SchoolEntities\obj\Debug\SchoolEntities.pdb

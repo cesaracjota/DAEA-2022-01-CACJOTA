@@ -1,0 +1,14 @@
+C:\Users\acjot\source\repos\SchoolApp\SchoolBLL\bin\Debug\SchoolBLL.dll
+C:\Users\acjot\source\repos\SchoolApp\SchoolBLL\bin\Debug\SchoolBLL.pdb
+C:\Users\acjot\source\repos\SchoolApp\SchoolBLL\bin\Debug\SchoolDAL.dll
+C:\Users\acjot\source\repos\SchoolApp\SchoolBLL\bin\Debug\SchoolEntities.dll
+C:\Users\acjot\source\repos\SchoolApp\SchoolBLL\bin\Debug\EntityFramework.dll
+C:\Users\acjot\source\repos\SchoolApp\SchoolBLL\bin\Debug\SchoolDAL.pdb
+C:\Users\acjot\source\repos\SchoolApp\SchoolBLL\bin\Debug\SchoolDAL.dll.config
+C:\Users\acjot\source\repos\SchoolApp\SchoolBLL\bin\Debug\SchoolEntities.pdb
+C:\Users\acjot\source\repos\SchoolApp\SchoolBLL\bin\Debug\EntityFramework.xml
+C:\Users\acjot\source\repos\SchoolApp\SchoolBLL\obj\Debug\SchoolBLL.csproj.AssemblyReference.cache
+C:\Users\acjot\source\repos\SchoolApp\SchoolBLL\obj\Debug\SchoolBLL.csproj.CoreCompileInputs.cache
+C:\Users\acjot\source\repos\SchoolApp\SchoolBLL\obj\Debug\SchoolBLL.csproj.CopyComplete
+C:\Users\acjot\source\repos\SchoolApp\SchoolBLL\obj\Debug\SchoolBLL.dll
+C:\Users\acjot\source\repos\SchoolApp\SchoolBLL\obj\Debug\SchoolBLL.pdb

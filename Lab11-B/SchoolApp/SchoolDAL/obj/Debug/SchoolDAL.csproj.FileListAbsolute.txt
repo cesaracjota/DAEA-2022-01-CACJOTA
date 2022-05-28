@@ -1,0 +1,14 @@
+C:\Users\acjot\source\repos\SchoolApp\SchoolDAL\bin\Debug\SchoolDAL.dll.config
+C:\Users\acjot\source\repos\SchoolApp\SchoolDAL\bin\Debug\SchoolDAL.dll
+C:\Users\acjot\source\repos\SchoolApp\SchoolDAL\bin\Debug\SchoolDAL.pdb
+C:\Users\acjot\source\repos\SchoolApp\SchoolDAL\bin\Debug\EntityFramework.dll
+C:\Users\acjot\source\repos\SchoolApp\SchoolDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\acjot\source\repos\SchoolApp\SchoolDAL\bin\Debug\SchoolEntities.dll
+C:\Users\acjot\source\repos\SchoolApp\SchoolDAL\bin\Debug\SchoolEntities.pdb
+C:\Users\acjot\source\repos\SchoolApp\SchoolDAL\bin\Debug\EntityFramework.xml
+C:\Users\acjot\source\repos\SchoolApp\SchoolDAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\acjot\source\repos\SchoolApp\SchoolDAL\obj\Debug\SchoolDAL.csproj.AssemblyReference.cache
+C:\Users\acjot\source\repos\SchoolApp\SchoolDAL\obj\Debug\SchoolDAL.csproj.CoreCompileInputs.cache
+C:\Users\acjot\source\repos\SchoolApp\SchoolDAL\obj\Debug\SchoolDAL.csproj.CopyComplete
+C:\Users\acjot\source\repos\SchoolApp\SchoolDAL\obj\Debug\SchoolDAL.dll
+C:\Users\acjot\source\repos\SchoolApp\SchoolDAL\obj\Debug\SchoolDAL.pdb
