@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="cc13f50fea284789b0ec8e75b047e24b" Name="Diagram1">
+        <EntityTypeShape EntityType="SchoolModel.Course" Width="1.5" PointX="3" PointY="5.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolModel.CourseGrade" Width="1.5" PointX="7.5" PointY="8.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolModel.Department" Width="1.5" PointX="0.75" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolModel.OfficeAssignment" Width="1.5" PointX="7.5" PointY="11.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolModel.OnlineCourse" Width="1.5" PointX="5.25" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolModel.OnsiteCourse" Width="1.5" PointX="5.25" PointY="8.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolModel.Person" Width="1.5" PointX="5.25" PointY="10.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolModel.sysdiagrams" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolModel.tbl_usuario" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
+        <AssociationConnector Association="SchoolModel.FK_Course_Department" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolModel.FK_CourseGrade_Course" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolModel.FK_OnlineCourse_Course" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolModel.FK_OnsiteCourse_Course" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolModel.FK_CourseGrade_Student" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolModel.FK_OfficeAssignment_Person" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolModel.CourseInstructor" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
