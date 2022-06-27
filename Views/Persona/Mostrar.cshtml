@@ -1,0 +1,88 @@
+﻿@model Lab13.Models.Persona
+
+@{
+    ViewBag.Title = "Mostrar";
+}
+
+<h2>Mostrar Persona</h2>
+
+@using (Html.BeginForm())
+{
+    <div class="row">
+        <div class="col-md-2">
+            <label> @Html.LabelFor(model => model.PersonaID)</label>
+        </div>
+        <div class="col-md-5">
+            @Html.TextAreaFor(model => model.PersonaID)
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-2">
+            <label> @Html.LabelFor(model => model.Nombre) </label>
+        </div>
+        <div class="col-md-5">
+            @Html.TextAreaFor(model => model.Nombre)
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-2">
+            <label> @Html.LabelFor(model => model.Apellido) </label>
+        </div>
+        <div class="col-md-5">
+            @Html.TextAreaFor(model => model.Apellido)
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-2">
+            <label> @Html.LabelFor(model => model.FechaNac) </label>
+        </div>
+        <div class="col-md-5">
+            @Html.TextAreaFor(model => model.FechaNac)
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-2">
+            <label> @Html.LabelFor(model => model.Direccion) </label>
+        </div>
+        <div class="col-md-5">
+            @Html.TextAreaFor(model => model.Direccion)
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-2">
+            <label> @Html.LabelFor(model => model.Email) </label>
+        </div>
+        <div class="col-md-5">
+            @Html.TextAreaFor(model => model.Email)
+        </div>
+    </div>
+}
+
+@Html.ActionLink("Listar personas", "listar", "Persona")
+
+
+
+
+
+
+
+@*{
+    @Html.LabelFor(model => model.PersonaID)
+    @Html.TextAreaFor(model => model.PersonaID)
+    <br />
+    @Html.LabelFor(model => model.Nombre)
+    @Html.TextAreaFor(model => model.Nombre)
+    <br />
+    @Html.LabelFor(model => model.Apellido)
+    @Html.TextAreaFor(model => model.Apellido)
+    <br />
+    @Html.LabelFor(model => model.FechaNac)
+    @Html.TextAreaFor(model => model.FechaNac)
+    <br />
+    @Html.LabelFor(model => model.Direccion)
+    @Html.TextAreaFor(model => model.Direccion)
+    <br />
+    @Html.LabelFor(model => model.Email)
+    @Html.TextAreaFor(model => model.Email)
+}*@
+
